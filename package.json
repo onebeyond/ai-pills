@@ -1,0 +1,30 @@
+{
+  "name": "ai-pills",
+  "version": "1.0.0",
+  "description": "💊 AI Pills - Quick and clear tips related to Artificial Intelligence",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onebeyond/ai-pills.git"
+  },
+  "keywords": [
+    "AI",
+    "Artificial Intelligence",
+    "pill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onebeyond/ai-pills/issues"
+  },
+  "homepage": "https://github.com/onebeyond/ai-pills#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.10"
+  }
+}

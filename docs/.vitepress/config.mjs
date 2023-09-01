@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-EN',
   title: "One Beyond's AI Pills",
+  base: '/ai-pills/',
   description: "Quick and clear tips related to Artificial Intelligence",
   lastUpdated: true,
   themeConfig: {

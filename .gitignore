@@ -129,4 +129,3 @@ dist
 .DS_Store
 
 **/.vitepress/cache/
-**/.vitepress/dist/

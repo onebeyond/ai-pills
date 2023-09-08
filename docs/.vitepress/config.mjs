@@ -21,7 +21,7 @@ export default defineConfig({
         {
           text: 'AI Pills',
           items: [
-            { text: '', link: ''}
+            { text: 'Transcribe large audio files', link: '/pills/transcription-large-audio-files'}
           ]
         }
       ]
